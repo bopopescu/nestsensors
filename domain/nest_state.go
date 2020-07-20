@@ -1009,7 +1009,7 @@ func (ns *NestState) TemperatureSensors() ([]*TemperatureSensor, error) {
                 "backplate_bsl_info": "BSL",
                 "backplate_bsl_version": "3.1",
                 "backplate_model": "Backplate-5.4",
-                "backplate_mono_info": "TFE (BP_D3) 1.5.9 (jenkins-slave@jenkins-agent-017-v17-emb-prod) 2018-08-27 18:18:13",
+                "backplate_mono_info": "TFE (BP_D3) 1.5.9 (jenkins-subordinate@jenkins-agent-017-v17-emb-prod) 2018-08-27 18:18:13",
                 "backplate_mono_version": "1.5.9",
                 "backplate_serial_number": "09DA02AC42180D74",
                 "backplate_temperature": 21.42999,
@@ -2320,7 +2320,7 @@ func (ns *NestState) TemperatureSensors() ([]*TemperatureSensor, error) {
                         "where_id": "00000000-0000-0000-0000-00010000000c"
                     },
                     {
-                        "name": "Master Bedroom",
+                        "name": "Main Bedroom",
                         "where_id": "00000000-0000-0000-0000-000100000005"
                     },
                     {
